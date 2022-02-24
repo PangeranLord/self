@@ -55,12 +55,12 @@ const { sleep, isAfk, cekafk, addafk } = require('./lib/offline')
 banChats = true
 offline = false
 targetpc = '6281918532071'
-owner = '6281918532071'
-fake = 'Levia☆tan'
+owner = '6287832147584'
+fake = 'Pangeran☆'
 numbernye = '0'
 waktu = '-'
 alasan = '-'
-git = 'https://github.com/serafallleviathan/self'
+git = 'https://instagram.com/pangerann21_'
 //=================================================//
 module.exports = hexa = async (hexa, mek) => {
 	try {
@@ -107,12 +107,12 @@ module.exports = hexa = async (hexa, mek) => {
 
         //MESS
 		mess = {
-			wait: 'WAIT...⏳',
-			success: 'SUCCES...',
-			wrongFormat: 'SALAH, silahkan lihat lagi menunya❗',
+			wait: 'WAIT SEDANG DI ENTOD...⏳',
+			success: 'SUCCES DI ENTOD...💧',
+			wrongFormat: 'SALAH❗, silahkan lihat lagi menunya❗',
 			error: {
-				stick: 'Bukan Sticker❗:v',
-				Iv: 'GAGAL❗:v'
+				stick: 'Bukan Sticker Sayang❗:v',
+				Iv: 'GAGAL Sayang❗:v'
 			},
 			only: {
 				group: 'Bukan Grup',
@@ -413,7 +413,7 @@ switch (command) {
 ► _${prefix}term_ <code>
 ► _×_ <code>
 
-❏ *Levia☆tan* ❏`
+❏ *PangeranBotZ☆* ❏`
         	fakestatus(menu)
            	break
     case 'on':
